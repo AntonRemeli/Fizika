@@ -55,7 +55,7 @@ src="<?php  echo $hF;?>@/02elore.jpg" alt="" border="0"></a>&nbsp;</td>
 
 
 <td>
-<h2><a href="<?php  echo $hF;?>01/01FE.php">01.Mi a fizika?xx</a><a href="<?php  echo $hF;?>00/00FE.php">  <img  src="<?php  echo $hF;?>@/00fel.jpg" title="Vissza a tartalomjegyzékhez" alt="Vissza a tartalomjegyzékhez" border="0" /></a></h2>
+<h2><a href="<?php  echo $hF;?>01/01FE.php">01.Mi a fizika?</a><a href="<?php  echo $hF;?>00/00FE.php">  <img  src="<?php  echo $hF;?>@/00fel.jpg" title="Vissza a tartalomjegyzékhez" alt="Vissza a tartalomjegyzékhez" border="0" /></a></h2>
 </td>
 <td>
 <h2 style="text-align: right;">&nbsp;<a href="<?php  echo $hF;?>in/inFE.php"><img  src="<?php  echo $hF;?>@/00fel.jpg" alt="Bevezető megnyitása lassú hálózatban" alt="Bevezető megnyitása lassú hálózatban" border="0" /></a><a href="<?php  echo $hF;?>in/index.php">Fizika
