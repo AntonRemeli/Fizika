@@ -1,0 +1,7 @@
+ 
+ <?  if ($pap==0) echo '
+ <a href="javascript:void(0)" onclick="open_url('<?echo $hF;?>00.php','4&BF01');">
+ <img src="<?echo $hF;?>@/05mesBe.png"
+alt="Mesét becsukom" title="Mesét becsukom" align="right" border="0" ></a>
+'; ?>
+</h2>  <br></td></tr></tbody></table>

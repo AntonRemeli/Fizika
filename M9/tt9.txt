@@ -1,0 +1,59 @@
+A TESTEK MOZGÁSA	9
+1. Emlékeztető	10
+2. Egyenes vonalú egyenletes mozgás	13
+3. Változó mozgás	21
+3.1. A változó mozgást végző test sebessége	21
+3.2. A gyorsulás fogalma	25
+3.3. A szabadon eső test mozgása	30
+3.4. Az egyenletes körmozgás	35
+3.5. A körmozgás és forgómozgás szögjellemzői	41
+3.6. A változó forgómozgás (Kiegészítő anyag)	45
+4. A bolygók mozgása	48
+5. Kidolgozott feladatok	53
+Összefoglalás	57
+A NEWTONI DINAMIKA ELEMEI: A TÖMEG ÉS AZ ERŐ	59
+1. Emlékeztető	60
+2. A tehetetlenség törvénye és az inerciarendszer	62
+3. A tömeg fogalma	65
+4. A sűrűség	69
+5. Lendület, lendületmegmaradás	71
+6. Erőhatás, erő	76
+6.1. Az erő fogalma	76
+6.2. Erő-ellenerő. A mechanikai kölcsönhatás	82
+6.3. Több erőhatás együttes eredménye	84
+7. Különféle mozgások dinamikai feltétele	88
+8. Kényszererők és meghatározásuk	91
+9. Tehetetlenségi erők (Kiegészítő anyag)	94
+10. Különféle erőhatások és erőtörvényeik	97
+10.1. Rugalmas erő. Lineáris erőtörvény	97
+10.2. Súrlódás. Közegellenállás	100
+10.3. A nehézségi erő és a gravitációs erőtörvény	106
+11. A forgómozgás dinamikai vizsgálata	111
+11.1. A tehetetlenségi nyomaték (Kiegészítő anyag)	111
+11.2. A perdület (Kiegészítő anyag)	114
+11.3. A forgatónyomaték	117
+12. Merev testek egyensúlya	122
+12.1. A párhuzamos hatásvonalú erők eredője	122
+12.2. Tömegközéppont és súlypont. Egyensúlyi helyzetek	126
+13. Kidolgozott feladatok	129
+Összefoglalás	133
+FOLYADÉKOK ÉS GÁZOK MECHANIKÁJA	135
+1. Emlékeztető	136
+2. A szilárd testek, a folyadékok és a gázok nyomása	137
+3. Felhajtóerő. Arkhimédész törvénye	143
+4. Közlekedőedények. Hajszálcsövek, molekuláris erők	147
+5. Gázok és folyadékok áramlása	151
+6. Kidolgozott feladatok	155
+Összefoglalás	157
+ENERGIA, MUNKA	159
+1. Emlékeztető	160
+2. Energiaváltozás munkavégzés közben	162
+2.1. A munka kiszámítása	162
+2.2. A mozgási energia kiszámítása. A munkatétel	167
+2.3. Feszítési munka. Rugalmas energia	171
+2.4. Az emelési munka és a helyzeti (magassági) energia	174
+2.5. A mechanikai energia fogalma és megmaradási tétele	178
+3. Teljesítmény, hatásfok	181
+4. Kidolgozott feladatok	184
+Összefoglalás	188
+MEGOLDÁSOK	189

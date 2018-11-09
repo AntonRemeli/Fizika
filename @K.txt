@@ -1,0 +1,416 @@
+Témák órákra bontása	Az óra témája (tankönyvi lecke) vagy funkciója	Célok, feladatok	Fejlesztési terület	Ismeretanyag
+
+1.	3.1 Honnan ered a természetről nyert tudásunk?	 Mi a szerepe tudásunkban a tapasztalatnak? Hogyanrögzíthetjük, hogyan adhatjuk át másoknak tapasztalatainkat? Mikor mondhatjuk, hogy értjük egyjelenség okát? Miben segíthet minket a megszerzett tudás?	Objektív (ellenőrizhető) ismeretre tervszerűen végzett megfigyelések vagy kísérletek értelmezése útján juthatunk. Magyarázatainkat sejtések, feltevések, szabályok, modellek vagy törvények formájában fogalmazhatjuk meg.	Kísérlet, megfigyelés, modell, törvény, objektív-szubjektív, ok-okozat, indoklás.
+2.
+3.2 Mozgások leírása
+Hogyan értelmezhető a mozgás? Mit jelent a mozgás viszonylagossága?
+A mozgások leírása, az ehhez szükséges mennyiségek, jellemzők ismerete, biztos használata. Az egyenes vonalú egyenletes és az egyenletesen gyorsuló mozgás; a szabadesés gyorsulása fogalmának ismerete és alapvető összefüggéseinek alkalmazása.
+Másodperc, perc, óra, nap, évszak, év, elmozdulás, út, sebesség, gyorsulás, szabadesés gyorsulása.
+3–4.
+3.3 Éggömb és földgömb
+Hogyan (mihez képest) adhatom meg helyzetemet vagy más testek helyzetét a térben? Hogyan mérhetem meg a közvetlenül nem elérhető testek távolságát? Milyen összefüggéseket ismerhetek föl térképek segítségével?
+Az arányosság, hasonlóság mérhetővé teszi a közvetlenül nem elérhetőt is (háromszögelés, Thalész tétel) Az égitestek (Földről látható) helyzete alapján tájolhatunk (gnómon, észak-dél). A Föld és az égitestek egymáshoz viszonyított helyzete alapján megadható az égi térkép (csillagképek) és a földi koordináták is (fokhálózat)
+Térkép, égtáj, arányosság, méretarány, háromszögelés, fokhálózat, GPS.
+5–6.
+3.4 Az égi óra
+Hogyan (mihez képest) adhatom meg egy időtartam hosszát?  Mi az év, az évszak, a nap hosszának mértéke? 
+Hogyan határozható meg az idő a forgó Föld felszínének különböző pontjain?
+Az időegységeket az ókortól kezdve periodikus csillagászati jelenségek segítségével adták meg (év, évszak, nap).
+Egy hely földrajzi szélességét a Sarkcsillag látóhatárral bezárt szögével, hosszúsági fokát pedig az angliai Greenwich helyzetéhez viszonyítva adják meg.
+Ciklikus változás, nap, év, évszak, napfordulók, nap- és földközéppontú világkép, időzóna.
+7–8.
+3.5 Állandóság és változás
+Mitől függ a változások iránya és gyorsasága?
+Mikor alakul ki egyensúly, mikor megfordíthatatlan egy változás?
+A kémiai reakciók sebességét az anyagi minőség, a hőmérséklet és a katalizátorok szabják meg. Zárt rendszerben dinamikus egyensúly áll be, nyílt rendszerekben egyirányú vagy ismétlődő folyamatok indulnak meg.
+Reakciósebesség, energiaigényes és energiatermelő folyamat, aktiválási energia, katalizátor, indikátor, dinamikus egyensúly, zárt és nyílt rendszer.
+9–11.
+3.6 Lendület és erő
+Miért jellemzi jobban mozgó testet a lendülete, mint a sebessége? Hogyan jelentkezik a mindennapokban a lendületmegmaradás?
+Mi okozza a mozgásállapot megváltozását? Hogyan jelenik meg a súrlódás a mindennapokban?
+Hogyan hatnak egymásra a testek érintkezés nélkül? Mit jelent a kétféle mágneses, illetve elektromos töltés? Mi a hasonlóság és különbözőség a mágneses, elektrosztatikus és gravitációs jelenségek között? Az elektromosság, mágnesesség és tömegvonzás, mint kölcsönhatás megismerése.
+A jelenségek közös jellemzőinek felfedezése. A lendület megmaradás felismerése a mindennapokban: – rakétameghajtás. A lendületmegmaradás felismerése zárt rendszerben.
+A változások okainak és összefüggéseinek megismerése. Newton, I és III. törvényének kvalitatív, II törvényének kvantitatív ismerete és alkalmazása. Centripetális erő ismerete és felismerése mindennapi alkalmazásokban. A súly és a súlytalanság fogalmának ismerete.
+A mágnesesség, az elektromos mező, a tömegvonzás ismerete. A súly és a súlytalanság fogalmának ismerete.
+Lendület, tömeg, lendület-megmaradás.
+Tömeg, tehetetlenség, lendület, fizikai törvény, centripetális erő, súrlódás, súrlódási erő, tömegvonzás, súly, erő mértékegységei.
+Mágneses pólusok, elektromos töltések, térerősség, mező, tömegvonzás, súlytalanság, elektron.
+12–17.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+SOKASÁG: HALMAZÁLLAPOTOK
+18.
+3.9 Gázok halmazállapota (Gáz van) 
+ A halmazállapot felismerése.   Milyen változások mehetnek végbe a gázban, és hogy an változnak közben a jellemzői?
+Az gáztörvények (Boyle–Mariotte, Gay–Lussac-törvények) kvalitatív ismerete és alkalmazása. A Kelvin-skála és a Celsius-skála kapcsolatának ismerete.
+Térfogat, nyomás, sűrűség, hőmérséklet, hőmérsékleti skála, abszolút nulla fok.
+19.
+3.10 Folyadékok
+Egyszerű bizonyítás a fizikában matematika segítségével. Mitől folyadék a folyadék?
+A nyomás, hidrosztatikai nyomás meghatározása. Elemi feladatmegoldás készsége, Arkhimédész törvényének ismerete. Az úszás, lebegés, merülés feltételeinek megállapítása és következtetések levonása. .Hidraulikus emelő működési elvének felismerése a mindennapokban.
+Úszás, lebegés, merülés, hidrosztatikai nyomás, felhajtóerő.
+20.
+3.11 Áramlás
+Milyen élettani hatása van az áramlásnak? Miben különbözik a nyugvó és áramló gáz és folyadék? "Folyó az erekben".
+Bernoulli-elv és hatásai megjelenésének, porlasztásnak felismerése a mindennapokban folyadékok és gázok esetében.
+Áramlás, örvény, porlasztó.
+21–23.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+A GÉP FOROG (MECHANIKA): MUNKA ÉS ENERGIA, KÜLSŐ ERŐK (FÖLDRAJZ), KERINGÉS, LÉGZÉS, MOZGÁS
+24–25.
+3.12 Arisztotelész Kozmosza. Időjárás
+Milyen energia, hogyan idézi elő az időjárás változásait?  
+Hogyan függ össze a levegő mozgása, hőmérséklete és a csapadék-képződés?
+ A legtöbb időjárási jelenség közvetve vagy közvetlenül a Nap energiájának egyenlőtlen eloszlására vezethető vissza.
+A fölemelkedő levegő lehűl, a bármilyen okból lehűlő levegőből a vízgőz a harmatponton kicsapódik.
+Áramló hideg és meleg levegő találkozásakor (frontok) örvénylő légáramlatok keletkeznek (ciklonok, anticiklonok).
+Légnyomás, szél, relatív páratartalom, hőmérő, barométer, harmatpont, ciklon, anticiklon, időjárási front.
+26.
+3.13 Vizek a talajban
+Mi szabja meg a folyóvizek mennyiségét, áramlásuk sebességét?
+Hogyan juthatunk jó minőségű vízhez, hogyan gazdálkodhatunk vele?
+ A csapadék nagy része a talajon átáramolva jut a felszín alatti és a felszíni vízfolyásokba.
+A felszín alatti vizek a gravitáció hatására a vízzáró rétegeket követve áramlanak. 
+Feladatunk a talaj, a felszín alatti vizek és a folyók természetéhez alkalmazkodó életmód megtalálása és követése.
+Talaj, árvíz, talajvíz, rétegvíz.
+27.
+3.14 Energiát adunk
+Mi a kapcsolat a munka és az energia között? Miért nincs örökmozgó? A reverzibilis és irreverzibilis folyamatok megkülönböztetése konkrét példákban.
+Az energia, munka fogalmának ismerete, elemi alkalmazása. A különböző mechanikai energiafajták ismerete. Egyszerű kvantitatív összefüggések ismerete és alkalmazása. Megfordítható és megfordíthatatlan folyamatok megkülönböztetése.
+Munka, energia, gyorsítási, emelési munka, mozgási, helyzeti energia, energiafajta, hő, munka/energia mértékegységei.
+28.
+3.15 Teljesítmény
+Mi a teljesítmény?
+Néhány mindennap használatos gép hatásfoka, valamint a 100%-os hatásfok elérésének fizikai lehetetlenségének felismerése: Egyszerű gépek felismerése és ésszerű használata a mindennapokban.
+Teljesítmény, hatásfok, egyszerű gép, teljesítmény mértékegysége.
+29–30.
+3.16 Mozduló élőlények 
+Mi és hogyan magyarázható mechanikai elvek segítségével a mozgás és a légzés módjából?
+Vázrendszerünk az emelő elvén működik. Az ízületek segítségével elmozduló csontokat az izmok együttműködése juttatja a kívánt helyzetbe.
+A tüdőbe a mellkas térfogat-, ill. a tüdő nyomásváltozása miatt áramlik be a levegő. 
+Emelő, vázizom, csont, inak, hajlító és feszítő izom, ízület, be- és kilégzés.
+31–32.
+3.17 Vérkeringés 
+Mi a vér keringésének (ható) oka és funkciója? Mi biztosítja az egyirányúságot?
+Hogyan alkalmazkodik a keringési rendszer a változó igényekhez?
+Mi veszélyezteti az egészséges működést?
+ Az egyirányú vérkeringést a szív munkája, a szívben és erekben levő billentyűk működése okozza.
+Az érfalak átmérőjének és rugalmasságának csökkenése (érelmeszesedés), a rögképződés (trombózis) és a szívizom elhalása (infarktus) a keringési rendszer veszélyes zavarai.
+Vérerek, szív, billentyűk, artéria, véna, kis- és nagyvérkör, vérnyomás, kockázati tényező, infarktus, trombózis. 
+33–36.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+FORMÁK ÉS ARÁNYOK: KÉMIA, BIOKÉMIA, OPTIKA
+37–38.
+3.18 Szépség és egészség 
+Milyen testekben, jelenségekben figyelhetünk meg állandó arányokat?
+Milyen arányokat érzünk szépnek, vonzónak vagy megnyugtatónak?
+Hogyan fejezhetjük ki az arányok változását?
+Miből gondoljuk, hogy az anyag atomokból áll? Hogyan „láthatunk bele” egy molekula belsejébe: hogyan ismerhetjük meg szerkezetét és alakját?
+Milyen tulajdonságok függenek a molekulák szerkezetétől?
+Mi szabja meg az anyagok kölcsönös vonzódását vagy elkülönülését? 
+A görög gondolkodók szerint a szépség és egészség a jó arányokkal, a pusztulás és betegség pedig ezek megbomlásával magyarázható.
+Az anyagmennyiségek vagy tömegek változó arányait a koncentráció és a százalék fogalma segítségével adhatjuk meg.
+A kémia tárgya a változatlan arányban kapcsolt elemek: a vegyületek vizsgálata.
+A vegyületek állandó tömegarányait úgy tudjuk magyarázni, ha föltételezzük, hogy ezeket jellemző tömegű részecskék, atomok kapcsolódása hozza létre (összegképlet).
+A nagymolekulákat legegyszerűbben jellemző viselkedésű atomcsoportok (funkciós csoportok) mozaikjaként írhatjuk le. 
+Sok fizikai-kémia tulajdonság a molekulák közti vonzóerő nagyságától függ.
+A molekulák tulajdonságait az apoláros és poláros atomcsoportok aránya és elhelyezkedése is befolyásolja.
+Keverék, oldat, vegyület, ötvözet, oldat, koncentráció, összegképlet, szerkezeti képlet, atomcsoportú, poláros és apoláros csoport.
+39–40.
+3.19 Atomi kirakós játék: az atomcsoportok. Rácstípusok
+Mi magyarázza a szilárd anyagok tartását, térbeli rendezettségét?
+Mi az oka, hogy a szilárd anyagok egy része vezeti az áramot (fémek), más részük csak megolvasztva vagy oldva (ionok), harmadik részük pedig szigetel?
+Hogyan jöhet létre rend, szabályos szerkezet a folyadékok határfelületén?
+A szilárd anyagok szabályos belső szerkezetét kristályrács alkotja.
+Elektromos tér hatására a fémekben elektronok mozdulnak el (delokalizált elektronok).
+Az ionrácsos vegyületek szigetelők, mert ezekben helyhez kötött anionok és kationok vannak a rácspontokon. Oldásuk vagy olvasztásuk után ezek már elmozdulhatnak, így az ionok vezetik az áramot.
+Az ionrácsos vegyületek összegképlete az alkotó ionok arányát jelzi (töltésegyensúly valósul meg).
+Poláros és apoláros csoportot is tartalmazó molekulák (felületaktív anyagok) poláros és apoláros folyadék (vagy levegő) határán rendezett szerkezetű hártyákat alkotnak.  
+Kristályrács, elektron, fém, ion, anion, kation. 
+41–42.
+3.20 Egyre kisebb – mégis ugyanaz Felépítés és lebontás
+Miért van szükségük egymásra a növényeknek és az állatoknak? 
+Mi a kapcsolat a légzés és a táplálkozás között?
+Hogyan kapcsolja össze az anyagcseréjük az élőlényeket?
+Az élővilágban az autotróf élőlények felépítő folyamatai hozzák létre azokat a nagymolekulákat, melyek az összes heterotróf élőlény energiaforrásai. 
+A lebontó, élősködő, ragadozó és növényevő fajok valamennyien heterotrófok.
+Az élőlények anyagcseréjük révén segíthetik is egymást (szimbiózis) és versenytársak is lehetnek.
+Cellulóz, keményítő, fehérjék, felépítés, lebontás (hidrolízis), kicsapódás.
+43–44.
+3,21 Néhány alapegységből sokféle építmény. Anyagcsere
+Mi a szerepe az egyes szerveknek a tápanyagok lebontásában és a felépítésben?
+Milyen mennyiségi és minőségi feltételei vannak az egészséges táplálékozásnak?
+Az emésztés: hidrolízis. Ennek során szénhidrátokat, fehérjéket és lipideket (zsírszerű anyagokat) bontunk alkotórészeikre.
+A felszívott tápanyagokat a vér a sejtekbe szállítja, ahol oxidálódnak, vagy más, felépítő folyamatokban vesznek részt.
+A kiválasztás feladata a vérben keringő anyagok helyes arányának fenntartása.
+A felépítő és lebontó anyagcsere aránya szabja meg a testalkatot, belső elvárásaink a magunkról alkotott testképet.
+Az ételek tartósítására akkor van szükség, ha hosszabb időn át szeretnénk elkerülni, hogy abban lebontó élőlények (gombák, baktériumok) szaporodjanak el.
+Emésztés, felszívás, raktározás, kiválasztás, vitamin, tartósítószer, testalkat.
+45.
+3.22 Felépítés és lebontás
+Miért van szükségük egymásra a növényeknek és az állatoknak? 
+Mi a kapcsolat a légzés és a táplálkozás között?
+Hogyan kapcsolja össze az anyagcseréjük az élőlényeket?
+Az élővilágban az autotróf élőlények felépítő folyamatai hozzák létre azokat a nagymolekulákat, melyek az összes heterotróf élőlény energiaforrásai. 
+A lebontó, élősködő, ragadozó és növényevő fajok valamennyien heterotrófok.
+
+Cellulóz, keményítő, fehérjék, felépítés, lebontás (hidrolízis), kicsapódás.
+46.
+3.23 Anyagáramlás szervezetünkben 
+Mi a szerepe az egyes szerveknek a tápanyagok lebontásában és a felépítésben?
+Milyen mennyiségi és minőségi feltételei vannak az egészséges táplálkozásnak?
+Az emésztés: hidrolízis. Ennek során szénhidrátokat, fehérjéket és lipideket (zsírszerű anyagokat) bontunk alkotórészeikre.
+A felszívott tápanyagokat a vér a sejtekbe szállítja, ahol oxidálódnak, vagy más, felépítő folyamatokban vesznek részt.
+A kiválasztás feladata a vérben keringő anyagok helyes arányának fenntartása.
+A felépítő és lebontó anyagcsere aránya szabja meg a testalkatot, belső elvárásaink a magunkról alkotott testképet.
+Az ételek tartósítására akkor van szükség, ha hosszabb időn át szeretnénk elkerülni, hogy abban lebontó élőlények (gombák, baktériumok) szaporodjanak el.
+Emésztés, felszívás, raktározás, kiválasztás, vitamin, tartósítószer, testalkat.
+47–48.
+3.24 Hullámok
+Miben különbözik egymástól a test mozgása és a hullám terjedése?  Milyen mechanikai hullámfajták vannak?
+A hullám felismerése a mindennapokban. A hullám jellemzőinek azonosítása a mindennapi jelenségekben. A terjedési sebesség, a hullámhossz és a frekvencia összefüggésének alkalmazása egyszerű számolási és megfigyeli feladatokban. Interferencia megfigyelése és kvalitatív leírása. 
+Hullám, terjedés, terjedési sebesség, rezgésidő, frekvencia, terjedési sebesség, interferencia, amplitúdó, hang.
+49–50.
+3.25 Optika
+Milyennek látjuk a világot a fény segítségével és miért éppen így? Miről szól az optika? 
+A fénysugár útjának leírás. A fényvisszaverődés, a fénytörés jelensége és alapvető kvalitatív szabályainak megállapítása.  A sík, a domború és a homorú tükör leképezési szabályainak vizsgálata és gyakorlati alkalmazásai. Képalkotás ismerete a törési törvény egyszerű alkalmazása esetén. Síktükör képalkotásának ismerete. A tükrök és lencsék alkalmazása a mindennapokban. A látszólagos és valódi kép megkülönböztetése.
+Fényforrás, fénysugár, tükör, lencse, visszaverődés, fénytörés, teljes visszaverődés, valódi-, látszólagos kép.
+51.
+3.26 A fény mint hullám 
+Hogyan terjed a fény? Honnan származik a fény színe? 
+Annak ismerete, hogy a fény elektromágneses hullám. A fény színének, erősségének és a hullámtulajdonságnak kvalitatív kapcsolata. A szivárvány keletkezésének leírása. A színek frekvenciaszabálya és a fénytörés frekvenciafüggésének következményei a mindennapokban. Az elektromágneses hullám tulajdonságainak ismerete, példák a gyakorlati alkalmazásokra. A spektrum különböző tartományaiban: mikrohullámú sütő, rádióhullámok, rádió, tv stb.)
+A fény, mint elektromágneses hullám, fényelhajlás színbontás, színkeverés.
+52–55.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+A SZERVEZET: KIBERNETIKA, IMMUNITÁS, HORMONOK, IDEGRENDSZER
+56–57.
+3.27 Gép és ember. 
+A hormonok
+Hogyan érhető el egy szervezet belső állandósága, miközben a külső körülmények folyamatosan változnak?
+Milyen úton szereznek tudomást egymás állapotáról sejtjeink, szerveink? Hogyan befolyásolják egymás működését?
+Milyen következményekkel járhat a szerveink közötti információáramlás megszakadása? 
+Az élőlények és a bonyolult gépek működése szabályozott: bennük negatív visszacsatolások útján viszonylagos belső állandóság valósul meg. 
+A szabályozott működés feltétele a részek közti kommunikáció (információcsere). Ennek egyik útja az élőlényekben kémiai: hormonális szabályozás.
+A hormonok életműködéseket gyorsítanak vagy gátolnak, a testnedvek útján áramlanak és azokra a célsejtekre hatnak, melyek felületén megfelelő befogadó molekula (receptor) van.
+Sokszor nem a belső állandóság, hanem a környezet kihívásaira adott küzdelem a megfelelő válasz (stresszhelyzet). Erre a szervezet a tartalékok gyors mozgósításával válaszol.
+Szabályozás, visszacsatolás, hormon, inzulin, cukorbetegség, stressz, adrenalin.
+58–59.
+3.28 A reflex: válaszadás Az idegrendszer
+Hogyan jönnek létre és mi célt szolgálnak a bennünk keletkező érzetek? Mi a szerepe az érzelmeknek?
+Mitől függ az, hogy mit veszünk észre vagy mit tartunk fontosnak a külvilág jeleiből?
+Hogyan hatnak és miért veszélyesek a tudatmódosító szerek?
+A reflexek a külvilág ingereire adott válaszok, melyeket az idegsejtek közvetítenek.
+Az ingerek érzeteket keltenek, ezeket értelmezzük (tudatosan vagy öntudatlanul rendezzük) és minősítjük is (érzelmek).
+Az idegsejtjeink közti információátadást módosító szerek a drogok, melyek torzítják azok működését (hozzászokás, függőség).
+A helyes érzékelés és kiegyensúlyozott érzelmek a külső és belső világ közti összhang megteremtését szolgálják.
+Idegsejt, reflex, inger, érzet, ingerületátvivő anyag, drog, függőség, figyelem, illúzió.
+60–61.
+3.29 A fertőzések megelőzése.
+Az immunitás
+Mi a fertőzések oka, és hogyan válhat ellenük védetté a szervezet?
+Mi módon különböztetjük meg saját testünk anyagait az idegenektől?
+Hogyan befolyásolja testi-lelki állapotunk a betegségekre való hajlamot?
+Immunrendszerünk a felszíni nagymolekulák (antigének) alapján különbözteti meg saját egészséges sejtjeinket az idegenektől vagy saját rendellenes működésű (pl. fertőzött) sejtjeinktől.
+Aktív immunitás akkor alakul ki, ha a szervezet megtanulta az ellenanyag termelést egy bizonyos idegen antigénnel szemben. Ezt használják ki a védőoltások.
+Az idegi, hormonális és immunrendszer kölcsönhatásban áll egymással. A problémákkal való aktív megküzdés növeli a kórokozókkal való megküzdés hatékonyságát is.
+Immunitás, higiéné, védőoltás, vércsoport, antigén, antitest, gyulladás, allergia, AIDS.
+62.
+3.30 Külvilág és „belvilág”. A viselkedés
+Mi történik bennünk tanulás közben? Mitől függ a tanulás hatékonysága, tartóssága?
+Mire, meddig és miért emlékezünk? Mit felejtünk el? 
+A tanulás a viselkedés adaptív megváltozása a tapasztalatok hatására.
+Tanuláskor kapcsolatok jönnek létre vagy erősödnek meg addig külön-álló idegi területek között (ingertársítás, asszociációk).
+A tanulás eredményét az emlékezet rögzíti és teszi újból fölidézhetővé.
+Tanult viselkedés, feltétlen és feltételes reflex, emlékezet, gondolati séma.
+63–64.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+ELEMI RÉSZEK, AZ ANYAG SZERKEZETE: ATOMFIZIKA, MAGFIZIKA
+65.
+3.1 Részecske és hullám
+Hogy lehet valami egyszerre hullám és részecske? Miért is érdekes ez a kérdés? A részecske- és a hullámtulajdonság jellemzőinek felismerése a fény esetén, a kettősség tudatosítása. 
+A részecske- és a hullámtulajdonság jellemzőinek felismerése a fény esetén, a kettősség tudatosítása. A fotocella működése alapjának ismerete, a fény „részecsketermészetének” megjelenési formái. A fényelektromos jelenség leírása.
+Foton, fénysebesség, elektronhullám.
+66.
+3.2 Vonzás és taszítás
+MI az atom? Hogyan fedezték fel a láthatatlan méreteket és szerkezetüket? A kísérletek és a gondolatkísérletek szerepe a megismerésben.
+A kísérletek és a gondolatkísérletek, analógiák szerepe a megismerésben. Modellalkotás. Rutherford és Bohr modell leírása.
+Atom, atommodellek, atommag, elektron.
+67.
+3.3 Az atommag összetétele
+Miért lehetséges, ami nem az?
+Modellalkotás arra, aminek korábbi tudásunk alapján nem lehetne lehetséges. A megismerés módszerei. A magerő tulajdonságainak következtető magyarázata. Atommagok stabilitásának feltétele. 
+Magerő, nukleon, proton, neutron, kötési energia, tömeghiány, radioaktivitás. 
+68.
+3.4 Atommagok kettéválása, egyesülése
+3.5 Atomi fizika a mindennapokban
+Kísérletek kisméretű részecskékkel. Gondolatkísérlet után megvalósítás. A kutatók felelőssége 
+Jó vagy rossz a rádióaktivitás?
+A maghasadás oka és feltételei, a láncreakció elve. Az atomenergia fogalma, felhasználásának gyakorlati módja és elvi lehetőségei. Előnyök és hátrányok mérlegelése. A rádióaktivitás fajtái és jellemzőik. A rádióaktivitás többféle alkalmazása. Védekezés a rádióaktivitás negatív élettani hatásai ellen.
+Maghasadás, magfúzió, láncreakció, kritikus tömeg, ellenőrzött- ellenőrizetlen energia-felszabadulás.. Rádióaktivitás. Alfa, béta, gammabomlás, felezési idő, aktivitás, dózis, áthatoló képesség.
+69.
+3.6 Az elektron a mindennapokban
+Mi az áram és milyen mindennapi alkalmazásai vannak.
+Az egyenáram fogalma, jellemzőinek ismerete, Ohm törvény felismerése és egyszerűbb alkalmazása. Az áram hatásainak megjelenése a mindennapokban. Védekezés az áram negatív élettani hatásaival szemben.
+Áramerősség, ellenállás, vezető, félvezető, szigetelő.
+70.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+AZ ÉREM KÉT OLDALA: GENETIKA, SZEXUALITÁS
+71–72.
+3.7–3.9 A rejtett terv
+ A genetika kibontakozása
+Mely tulajdonságaink öröklődnek és milyen mértékben? 
+Mik az öröklődés törvényszerűségei? 
+Miben különböznek a minőségi és a mennyiségi jellegek? 
+Hogyan lehet következtetni a szülői tulajdonságokból a gyermekekére? 
+Minden sejt sejtből lesz: ivartalan szaporodáskor testi sejtekből, ivaros szaporodás esetén az ivarsejtek egyesüléséből keletkező zigótából. 
+A tulajdonságok egy része öröklött. Az ivarosan szaporodó élőlényeknél (a diploid sejtekben) ezt felerészben a hím-, felerészben a női ivarsejt génjei határozzák meg. 
+A jellegek többsége mennyiségi: sok gén és a környezet kölcsönhatása szabja meg. 
+Az emberi öröklés klasszikus vizsgálati módszere a családfák nyomon követése.
+Gén, ivarsejt, ivaros és ivartalan szaporodás, haploid, diploid, homozigóta, heterozigóta, domináns és recesszív, családfa, genetikai sokféleség, beltenyésztés.
+73–74.
+3.10. Állandóság és változékonyság (az öröklődés) Molekuláris genetika
+Miből vannak, hol találhatók, és hogyan működnek a gének? Mi rögzíti bennük az információt? Hogyan adják át sejtről sejtre és nemzedékről nemzedékre? 
+Mi módon változhat meg az átadott információ? Milyen hatása lehet ennek az egyénre és a fajra?
+Az örökítő anyag a DNS. Ebben négyféle szerves bázis molekularészlet sorrendje hordozza az információt. Az átadás a DNS megkettőződése során történik meg.
+Az információ részben a fehérjék aminosav sorrendjére vonatkozik, részben más DNS-szakaszok működését befolyásolja. 
+A mutációk a DNS öröklődő megváltozásai, gyakoriságukat mutagén hatások fokozhatják.
+DNS, megkettőződés, mutáció, mutagén hatás.
+75–76.
+3.11 Lehetőség és elköteleződés
+Mi szabja meg, hogy egy soksejtű szervezetben melyik gén mikor és meddig működjön?
+Hogyan jön létre testünk bonyolult összhangja? Mikor szükséges és mikor veszélyes a sejtek pusztulása és osztódása?
+Mit jelent a rákos sejtburjánzás, hogyan vehető észre és kerülhető el?
+A sejttípusok elköteleződése (specializálódás) genetikai program alapján valósul meg. Ennek során bizonyos gének működésbe lépnek, mások tartósan gátoltak maradnak. Ez a mintázat az osztódások során fennmarad, vagy hormonális jelekre módosul.
+Az ellenőrizetlen sejtburjánzás rákos gócot okoz. Gyakoriságát bizonyos tényezők fokozhatják. Korai felismerésük növeli a gyógyítás és gyógyulás esélyét. 
+Genetikai program, specializálódás, jóindulatú és rosszindulatú rák, rákkeltő hatás.
+77–78.
+3.12-13. A különbségek genetikája, Nők és férfiak. Szexualitás
+Mi szabja meg az emberek nemét és mely tulajdonságaink függenek nemünktől? 
+Hogyan jönnek létre ivarsejtjeink, miben különböznek egymástól és testi sejtjeinktől?
+Hogyan működnek nemi szerveink? 
+Nemünket a nemi kromoszómák különbsége, és ennek következtében az eltérő hormonális hatások szabják meg.
+Az ivarsejtekben a teljes kromoszómaszám fele található meg.
+A női szervezet a petefészekben ciklikusan, a férfi a herékben folyamatosan hozza létre az ivarsejteket. 
+Testi és ivari kromoszómák, számtartó és számfelező sejtosztódás, ivarsejtek, zigóta, nemi jellegek, nemi szervek, nemi ciklus, ovuláció, menstruáció.
+79.
+3.14. Életút
+Mikor és hol kezdődik életünk? 
+Miben különbözik születés előtti és utáni életünk? Mit és hogyan tanulunk meg magzati korunkban és később? Hogyan alakul ki a személyiségünk?
+Mi és miért történik az öregedés során?
+A megtermékenyítés a petevezetékben, a magzati fejlődés az anyaméhben zajlik. 
+A magzatot az anya szervezete védi és táplálja. A csecsemő majd a kisgyermek személyisége a szülőkkel való kölcsönhatás során bontakozik ki.
+Egyedfejlődésünk során a hibák felhalmozódása révén öregedés indul meg.
+Megtermékenyítés, beágyazódás, magzat, méhlepény, köldökzsinór, utánzás, fejlődés, öregedés, élethossz növelő és csökkentő hatások.
+80–81.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+KIBONTAKOZÁS: CSILLAGÁSZAT, GEOLÓGIA, EVOLÚCIÓBIOLÓGIA
+82.
+3.15 A Naprendszer fölfedezése
+3.16 A Világegyetem
+A Naprendszernek sem a szerkezetét, sem a keletkezését nem egyszerű felfedezni. És egyik sem teljesen lezárt folyamat.
+Az idő- és térfogalom mélyítése, az időbeli tájékozódás fejlesztése a különböző léptékű folyamatok megismerése során.
+A csillag, bolygó, megkülönböztetése. A vonalas színkép és a hélium felfedezése.
+Szemléletes kép a táguló világegyetem elméletéről. A csillagfejlődés hatása a földi életre. A csillagfejlődés kvalitatív leírása. A csillagfejlődés és a magfúzió kapcsolata.
+Naprendszer, csillag, bolygó, árapály.
+Csillag, galaxis, Univerzum, Föld-típusú bolygó, szupernóva, Tejút, Big bang.
+83–84.
+3.17–3.18 A Föld felépítésének megismerése
+Mi magyarázza a kontinensek/ kőzetlemezek mozgását, helyét, élővilágát? 
+Milyen képet mutatnak a rengéshullámok a Föld belsejéről? Milyen földtani folyamatok okozzák és kísérik a kőzetlemezek mozgását? 
+Milyen magyarázatot ad a lemez tektonika a földrengések és a vulkanikusan aktív területek térbeli eloszlására? 
+Milyen kőzetlemez fajtákat ismerünk? Előrejelezhetők-e a földrengések?
+A kontinensvándorlás elmélet alapján új, mozgó földfelszín modell született. 
+A Föld felszínét kőzetburok lemezek borítják. 
+A Föld belső felépítését a földrengéshullámok alapján tárták föl. 
+A kőzetlemezek mozgásával magyarázzuk a földtani folyamatok (földrengés, vulkánkitörés, hegységképződés) kialakulását.
+Kontinesvándorlás, lemez tektonika, földrengéshullámok, kőzetlemezek, ásvány, kőzet, földköpeny, földmag, alábukó kőzetlemez, vulkanizmus, utóvulkáni működés. 
+85.
+3.19 Az élővilág evolúciója
+Milyen jelek utalnak a fajok átalakulására? Hogyan értelmezhetők ezek a tapasztalatok? 
+Mi a változások hatóereje? Kis lépésekben vagy ugrásszerűen zajlik? 
+Van-e iránya? 
+Az élőlények alkalmazkodnak környezetükhöz. 
+Változásaik során megőrzik múltjuk jeleit, ebből következtethetünk leszármazásukra.
+Az alkalmazkodásban szerepet játszik a szelekció: a környezethez jobban alkalmazkodó egyedek szaporodási előnye, és öröklött tulajdonságait biztosító génváltozatok elterjedése.
+Evolúció, alkalmazkodás, szelekció, törzsfa.
+86.
+3.20-21 A Föld múltja
+Mikor és hogyan keletkezhetett az élet? 
+Milyen szerepe volt az élőlényeknek a Föld átalakulásában? 
+Hogyan hatottak az éghajlatváltozások az élővilágra? Mitől függ a fajok túlélése vagy kipusztulása?
+AZ ősi oxigénmentes légkörben létrejöhettek szerves molekulák. 
+Az élőlények befolyásolták egymás változásait (koevolúciól.
+A nagy éghajlatváltozások vagy kozmikus katasztrófák kihalási hullámokat indítottak el, de új fajok keletkezését, maradványfajok kialakulását és a fennmaradók elterjedési területének változását is okozhatták.
+Őslégkör, koevolúció, jégkorszak,
+
+
+
+
+
+87.
+3.22-23 A természet átalakítása
+Miben különbözik az ember az állatoktól - és miben hasonlítunk legközelebbi rokonainkra?
+Mi biztosítja az emberi csoportok összetartását, együttműködését? 
+Hogyan befolyásolták a járványok az emberi történelmet? 
+Miként hatott az emberi gazdálkodás a Föld élővilágára?
+Az ember gondolkodása, tudatos környezet átalakítása, gazdag társas kapcsolatai révén új szintet jelentett az élővilág evolúciójában. 
+Az emberi csoportokat összetartó és elkülönítő erők feszültsége történelemformáló erő. 
+A gazdálkodás gyakran természetrombolást, a fajgazdagság csökkenését eredményezte.
+Homo sapiens, csoportnorma, család, morál, mesterséges kiválogatás, természeti kár, szikesedés.
+88–89.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+EGYÜTTÉLÉS, ÖKOLÓGIA
+90.
+3.24–3.25 Ökológiai kölcsönhatások
+Mit értünk egy élőlény ökológiai környezetén? 
+Hogyan osztják fel az élőlények az erőforrásokat? Mi szabja meg, hogy mely élőlények élhetnek együtt? 
+Mi szab határt a populációk növekedésének? 
+Mi biztosítja egy életközösség stabilitását?
+Az ökológiai környezet a korlátozó tényezők összessége. A tűrőképességi görbékkel magyarázhatjuk az együtt élő fajok kölcsönhatásait. 
+A populációméret változásának dinamikáját az ökológiai kölcsönhatások szabják meg. 
+Az életközösségek sokfélesége és stabilitása összefügg egymással.
+Ökológia, környezeti tényező, Liebig-elv, tűrőképesség, niche, versengés, szimbiózis, kompetíció, populáció, biológiai sokféleség (diverzitás).
+91.
+3.26 Társas viselkedések
+Hogyan függ össze az élőlények szaporodási módja, társas viselkedése és élőhelyük adottságai? Mi a szerepe az agressziónak és a segítőkészségnek a faj fennmaradásában? 
+Mi a különbség az emberi és állati agresszió és segítőkészség között?
+Az agresszió és segítőkészség lehetővé teszi a környezeti erőforrások optimális kihasználását.
+Az embernél tanult viselkedések / etikai normák befolyásolják magatartásmintázatainkat.
+Agresszió, segítőkészség, territórium, ivadékgondozás, öröklött és tanult viselkedésformák.
+92.
+3.27 Anyag és energiaáramlás. Gaia 
+Mi határozza meg az életközösségekben az egyes csoportok egyedszámát, tömegét, arányát?
+Hogyan vesz részt az élővilág a földi anyagáramlásban? 
+Hogyan változatta meg a geoszférák anyagi összetételét az élet? Hogyan kapcsolódik az emberi gazdálkodás ebbe a folyamatba? Milyen problémákat okoz ezzel?
+Az élőlények helyét az ökológiai piramisban anyag- és energiahasznosítási módjuk (autotróf, heterotróf) szabja meg. Fontos szerepet játszanak a fotoszintézis révén a szerves eredetű üledékes kőzetek (kőolaj) és a talaj, valamint a szervetlen mészkő képződésében. A légköri oxigén biogén eredetű, mennyisége szabályozott (Gaia). 
+Az ember a fosszilis energiahordozók felhasználásával és gazdálkodásával (mezőgazdaság) megváltoztatta az anyagáramlások sebességét.
+Ökológiai piramis, termelő, fogyasztó, lebontó szervezetek, 
+bio- és geokémiai ciklusok, Gaia-elmélet.
+93.
+3.28–3.29 Természet- és környezetvédelem
+Milyen környezeti kihívásokkal kell szembenéznünk? Hogyan csökkenthetjük a fosszilis energiafelhasználás mértékét? 
+Fenntartható-e tartósan a modern fogyasztói társadalom?
+Az energiakrízis az alternatív (megújuló) energiaforrások arányának növelésével és az energiafogyasztás csökkentésével mérsékelhető.
+A környezeti terhelés a technológiától, az egy főre eső fogyasztásból és az összlétszámból számolható ki.
+
+94.
+3.30 Fogyasztói létforma és az egészség
+Hogyan alakítsuk közvetlen és tágabb környezetünket, életmódunkat? 
+Mi a fennmaradás feltétele?
+A fenntarthatóság a környezet anyag- és energiaáramlási ciklusaival összhangban álló szelíd technológiával és életmóddal érhető el. 
+Az egészség is összefügg a megtalált és követett célokkal.
+
+95–96.
+Áttekintés, ismétlés, rendszerezés, ellenőrzés
+
+Év végi áttekintés, projektmunka
+97–108.
+Projektmunka, áttekintés
+

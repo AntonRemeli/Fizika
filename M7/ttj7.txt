@@ -1,0 +1,472 @@
+
+
+TANMENET
+heti 2óra
+
+
+Fizika 9.
+
+ (heti 2 óra, éves óraszám: 72 óra)
+
+I. Kinematika (19 óra)
+
+
+hét
+Óra-szám
+Tananyag
+Fogalmak
+Szemléltetés, tanulói tevékenység, megjegyzések
+
+1
+1.
+1. A mechanikai mozgás
+vonatkoztatási rendszer
+mozgás pályája, megtett út, elmozdulás
+Motiváció a fizika tanulásával kapcsolatban
+
+
+2.
+Fizikai mennyiségek
+skalármennyiség, vektormennyiség
+Tanulók tudásának egy szintre hozása
+
+2
+3.
+2. Egyenes vonalú egyenletes mozgás
+egyenes vonalú egyenletes mozgás,
+sebesség
+Kísérlet: egyenes vonalú egyenletes mozgás Mikola-csővel
+
+
+4.
+3. Változó mozgások: átlagsebesség, pillanatnyi sebesség
+átlagsebesség,
+pillanatnyi sebesség,
+
+Pillanatnyi sebesség értelmezése bemutatóval 
+(pl. PP vagy írásvetítő fólia) 
+
+3
+5.
+Feladatok átlagsebességre és egyenes vonalú mozgásokra
+
+Grafikonok értelmezése, gondolkodtató kérdések
+
+
+6.
+4. Egyenes vonalú egyenletesen változó mozgások
+gyorsulás,
+egyenes vonalú egyenletes változó mozgás
+Kísérlet: lejtőn legördülő golyó mozgásának vizsgálata
+
+4
+7-8.
+Egyenletes változó mozgások grafikonjai
+
+grafikonok elemzése, grafikonok készítése
+
+5
+9.
+5. Kezdősebességgel rendelkező egyenletesen változó mozgások
+
+Kísérlet: fékezés adatainak mérésére
+
+6
+10-12.
+Feladatok egyenletesen változó mozgásokra
+
+grafikonok helyes értelmezése
+
+7
+13.
+6. Szabadesés
+Nehézségi gyorsulás
+Kísérlet: szabadesés vizsgálata ejtőzsinórral
+
+
+14.
+Feladatok gyorsuló mozgásokra
+
+eddig tanultak rendszerezése
+
+8
+15.
+Függőleges hajítások
+hajítás, függőleges hajítás felfelé, lefelé
+Arisztotelész, Galilei munkássága
+
+
+16.
+Feladatok függőleges hajításra
+
+összetett mozgások értelmezése
+
+9
+17.
+Vegyes feladatok
+
+rendszerezés
+
+
+18.
+Összefoglalás
+
+
+
+10
+19.
+Témazáró dolgozat
+
+
+
+
+II. Dinamika (18 óra)
+
+
+
+Óra-szám
+Tananyag
+Fogalmak
+Szemléltetés, tanulói tevékenység, megjegyzések
+
+
+20.
+7. Newton I. törvénye
+Tehetetlenség törvénye,
+inerciarendszerek,
+Galilei-féle relativitási elv
+Kísérletek tehetetlenség törvényének igazolására, gondolkodtató kérdések
+
+11
+21.
+8. Testek tömege, sűrűsége
+tömeg, sűrűség
+Kísérlet: azonos anyagú, de különböző térfogatú testek tömegének összehasonlítása
+
+
+22.
+9. Lendület, lendületmegmaradás törvénye
+rugalmas, rugalmatlan ütközés tökéletesen rugalmatlan ütközés,
+lendület,
+zárt rendszer,
+lendületmegmaradás törvénye
+Kísérlet: rugalmas ütközésre (azonos és különböző tömeg esetén) és rugalmatlan ütközésre
+
+12
+23.
+Lendületmegmaradás törvényének alkalmazása
+
+
+
+
+24.
+10. Newton II. törvénye
+erőhatás, erő,
+Newton II. törvénye
+Isaac Newton munkássága
+
+13
+25.
+11. Newton III. törvénye
+erő-ellenerő,
+Newton III. törvénye
+Kísérlet: hatás-ellenhatás törvényének igazolása
+
+
+26.
+12. A dinamika alapegyenlete
+Erőhatások függetlenségének elve,
+dinamika alapegyenlete,
+tehetetlen tömeg
+
+
+14
+27.
+13. Nehézségi erő, súly és súlytalanság
+Súly, súlytalanság
+Kísérlet: fonál elvágása után papírlap kihúzása a felfüggesztett könyvből
+
+
+28.
+Feladatok és alkalmazások Newton-törvényekre és súlytalanságra
+
+Röpdolgozat
+
+15
+29.
+14. A rugóerő
+rugalmas erő,
+sztatikai tömegmérés
+Kísérlet: rugó megnyúlásának vizsgálata különböző tömegű testek ráakasztása esetén Robert Hooke munkássága
+
+
+30-31.
+15. Súrlódás
+súrlódási erő,
+csúszási súrlódás,
+tapadási súrlódás,
+gördülési ellenállás
+Kísérlet: 
+1. csúszási súrlódás jelenségének értelmezése
+2. tapadási súrlódás jelenségének értelmezése
+
+16
+32.
+Feladatok súrlódásra
+
+Feladatmegoldás
+
+
+33.
+16. Közegellenállás
+Közeg-ellenállási erő
+Kísérlet: különböző alakú testekre ható közeg-ellenállási erő
+
+17
+34-35.
+Feladatok Newton-törvényekre
+
+Newton-törvények alkalmazása feladatokban
+
+18
+36.
+Összefoglalás
+
+
+
+
+37.
+Témazáró dolgozat
+
+
+
+
+III. Dinamika alkalmazásai (16 óra)
+
+
+
+Óra-szám
+Tananyag
+Fogalmak
+Szemléltetés, tanulói tevékenység, megjegyzések
+
+19
+38.
+18. Az egyenletes körmozgás kinematikai leírása
+egyenletes körmozgás,
+kerületi sebesség,
+periódusidő,
+fordulatszám,
+szögsebesség,
+Kísérlet: egyenletes körmozgás vizsgálata lemezjátszóval.
+Egyenes vonalú mozgással kapcsolatos analógiák felhasználása
+
+
+39.
+Feladatok egyenletes körmozgásra
+
+egyenletes körmozgás jellemzőinek bemutatása
+
+20
+40.
+19. Az egyenletes körmozgás dinamikai leírása
+centripetális gyorsulás,
+egyenletes körmozgás dinamikai feltétele
+Kísérlet: fonálon körbeforgatott pontszerű test
+
+21
+41-42.
+Feladatok egyenletes körmozgásra
+
+Dinamikai feladatok, problémák (nehézségét az osztály szintjéhez igazítsuk)
+
+
+43.
+20. Newton-féle gravitációs (tömegvonzási) törvény
+Gravitációs kölcsönhatás,
+torziós inga,
+mesterséges égitestek,
+mesterséges hold,
+mesterséges bolygó,
+kozmikus sebességek
+Eötvös Loránd munkássága,
+műholdrendszerek 
+
+22
+44.
+Feladatok a gravitációs törvény alkalmazására
+
+gravitációs kölcsönhatás jellemzőinek bemutatása feladatok révén
+
+
+45.
+21. A bolygók mozgása, Kepler-törvények
+geocentrikus világkép,
+heliocentrikus világkép,
+kopernikuszi fordulat,
+Kepler I., II. és III. törvénye
+Ptolemaiosz, Kopernikusz, Kepler munkássága.
+
+
+23
+46-47.
+Naprendszer bolygóival kapcsolatos feladatok, érdekességek 
+
+Feladatmegoldás, kiselődás vagy érdeklődő osztályokban: bolygók távolságainak és méretének meghatározása c. rész feldolgozása
+
+24
+48.
+22. A forgatónyomaték, a merev testekre ható erőrendszerek
+merev test, forgatónyomaték,
+erőpár
+Kísérlet: tengely körül forgatható merev test egyensúlya
+
+
+49.
+23. Merev testek egyensúlya
+tömegközéppont,
+merev test egyensúlyának általános feltétele,
+egyensúlyi helyzetek
+Kísérlet: egyensúlyi helyzetek
+
+25
+50.
+Feladatok merev testek egyensúlyára
+
+gondolkodtató kérdések, számításos feladatok
+
+
+51.
+24. Egyszerű gépek
+emelő, egykarú emelő, kétkarú emelő,
+csiga,
+mozgócsiga,
+hengerkerék
+Kísérlet: egykarú, kétkarú emelő, csiga, mozgócsiga
+Arkhimédész munkássága
+
+26
+52.
+Összefoglalás
+
+
+
+
+53.
+Témazáró dolgozat
+
+
+
+
+IV. Munka, energia (17 óra)
+
+
+
+Óra-szám
+Tananyag
+Fogalmak
+Szemléltetés, tanulói tevékenység, megjegyzések
+
+27
+54.
+25. A munka
+Munka
+munka definíciójának szemléltetése,
+James Joule munkássága
+
+
+55.
+26. A gyorsítási munka és a mozgási energia
+gyorsítási munka,
+mozgási energia
+
+
+28
+56.
+Munkatétel
+Munkatétel
+gyorsítási munka, mozgási energia és a munkatétel összekapcsolása
+
+
+57.
+Feladatok 
+
+Az osztály szintjének megfelelően: 
+kinematikát, dinamikát és az energiaváltozásokat összekapcsoló feladatok megoldása
+
+29
+58.
+27. A rugalmassági energia
+változó nagyságú erő munkája,
+rugalmassági energia
+Kísérlet: csavarrugók megnyúlása
+
+30
+59-60.
+28. Emelési munka, helyzeti energia, Mechanikai energiamegmaradás törvénye
+emelési munka,
+helyzeti energia,
+mechanikai energiamegmaradás törvénye
+
+
+
+61-62.
+Feladatok
+gravitációs erőtér
+különféle energiafajták összekapcsolása (helyzeti, mozgási, rugalmassági)
+
+31
+63.
+29. A súrlódási erő munkája
+súrlódási erő,
+súrlódási erő munkája
+Kísérlet: rugó által ellökött test által megtett út mérése
+
+32
+64.
+Feladatok
+
+súrlódási munka összekapcsolása az előző leckék energiafajtáival
+
+
+65.
+30. Az energia fajtái és előállításuk
+megújuló és nem megújuló energiaforrások
+előadás, kiselőadás
+
+33
+66.
+31. Teljesítmény, hatásfok
+teljesítmény, átlag- és pillanatnyi teljesítmény,
+hatásfok
+James Watt munkássága
+
+34
+67-68.
+Feladatok
+
+rendszerzés, tananyag elmélyítése
+
+
+69.
+Összefoglalás
+
+
+
+35
+70.
+Témazáró dolgozat
+
+
+
+
+71.
+Ismétlés, rendszerezés
+
+
+
+36.
+72.
+Tanulmányi séta
+
+

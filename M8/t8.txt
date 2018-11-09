@@ -1,0 +1,39 @@
+ A. Elektromos alapjelenségek. áramerősség, feszültség    Emlékeztető 10 
+	A1. Az anyag részecskéinek szerkezete 11 
+	A2. A testek elektromos állapota 12 
+	A3. Az elektromos áram. Az áramerősség 15 
+	A4. Az elektromos áramkör 22 
+	A5. A fogyasztók soros és párhuzamos kapcsolása 26 
+	A6. Az elektromos feszültség 28 
+	AK.  Keresd a megoldást! 32 Összefoglalás 34 
+
+B. Az elektromos ellenállás. Az egyenáram hatásai
+
+    B1. Az elektromos ellenállás. Ohm törvénye 36 
+	B2. A vezetékek elektromos ellenállása 40 
+	B3. Több fogyasztó az áramkörben 42 
+	B4. Az egyenáram hatásai 46 
+	B5. Az elektromos munka és teljesítmény kiszámítása 51 
+	BK. Keresd a megoldást! 56 Összefoglalás 58 
+
+C. Az elektromágneses indukció. A váltakozó áram
+
+    C1. Az elektromágneses indukció 60 
+	C2. A váltakozó áram 63 
+	C3. A transzformátor 68 
+	C4. Az elektromos távvezetékrendszer 71 
+	C5. Az elektromos áram hatásainak néhány gyakorlati alkalmazása 73 
+	CK. Keresd a megoldást! 78 Összefoglalás 80 
+
+D. Fénytan
+
+    D1. A fény tulajdonságai 82 
+	D2. Fényvisszaverődés síktükörről 85 
+	D3. Fényvisszaverődés gömbtükörről 87 
+	D4. A fénytörés 90 
+	D5. Fénytani lencsék 92 
+	D6. Optikai eszközök 94 
+	D7. A színek 97 
+	DK. Keresd a megoldást! 99 Összefoglalás 101 
+
+     Az új szakszavak jegyzéke Időtérkép 
