@@ -20,7 +20,7 @@ $i = "'";
    
    echo '<table border="0" cellpadding="2" cellspacing="2" width="100%"><tbody><tr><td><h2><a href="'. $hF.'02/02FE01.php?par=0&pap=1"';
 if ($par==1) echo 'target="_blank"'; 
-  echo ' >02FE01 Démokritosz: a-tomos &nbsp</a>';
+  echo ' >02FE01 Démokritosz: a-tomos &nbspccccc</a>';
   if ($par==0) echo '<a href="'. $hF.'02/02FE.php" >  <img  src="'. $hF.'@/00fel.jpg" title="Vissza az anyagszerkezethez" alt="Vissza az anyagszerkezethez" border="0" /></a></h2> </td>  <td align="right">   <h2 style="text-align: right;"> <a href="'. $hF.'in/inFE.php">  <img  src="'. $hF.'@/00fel.jpg" title="Bevezető megnyitása lassú hálózatban" alt="Bevezető megnyitása lassú hálózatban" border="0" /></a>  <a href="'. $hF.'in/index.php">Fizika egyszerűen</a> ';
  
   
